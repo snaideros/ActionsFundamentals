@@ -5,6 +5,8 @@
 
 > Yet another issue
 
+`YOLO`
+
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
