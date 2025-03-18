@@ -1,6 +1,7 @@
 # GitHub Actions Fundamentals
 
 > This is a test
+> Not triggering CI
 
 Repo for the `GitHub Actions Fundamentals` training.
 
