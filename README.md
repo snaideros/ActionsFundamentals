@@ -3,6 +3,10 @@
 > This is a test
 > Not triggering CI
 
+> Yet another issue
+
+`YOLO`
+
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
